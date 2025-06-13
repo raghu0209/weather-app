@@ -19,13 +19,13 @@ A clean and simple Weather App that fetches real-time weather data for any city 
 - HTML5
 - CSS3 (Flexbox layout)
 - JavaScript (Vanilla)
-- [WeatherAPI](https://www.weatherapi.com/) for real-time weather data
+- [WeatherAPI](http://api.weatherapi.com) for real-time weather data
 
 ---
 
 ## 📷 Preview
 
-![weather app preview](screenshot.png) *(add your screenshot here if available)*
+![weather app preview](dashboard.png) *(add your screenshot here if available)*
 
 ---
 
@@ -51,7 +51,7 @@ A clean and simple Weather App that fetches real-time weather data for any city 
 
 ## 📌 Author
 
-Built by **Raghavendra Dasari** with guidance from **Zyro (ChatGPT)** 💡
+Built by **Raghavendra Dasari** 💡
 
 ---
 
